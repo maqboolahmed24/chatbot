@@ -1,0 +1,45 @@
+{
+  "York": {
+    "description": "York is an exciting and beautiful walled city...",
+    "accommodations": {
+      "The Coal Yard": {
+        "Location": "11 Mansfield St, York, YO31 7AJ",
+        "description": "The Coal Yard is a stylish student accommodation...",
+        "properties": {
+          "Bills Included": "Yes", 
+          "Rent": "177£-£215/week", 
+          "Beds": "1",
+          "Bath": "1",
+          "WiFi": "Yes",
+          "Gym": "No",
+          "Parking": "No",
+          "Game Room": "No",
+          "Study Space": "Yes",
+          "Communal spaces": "Yes",
+          "24/7 CCTV": "Yes",
+          "On-site laundry facilities": "Yes",
+          "City centre location": "No"
+        }
+      },
+      "The Coal Yard 2": {
+        "description": "At The Coal Yard 2, you'll be minutes away from the universities...",
+        "Location": "Mansfield Street, York, YO31 7UB",
+        "properties": {
+          "Bills Included": "Yes", 
+          "Rent": "£295-£430/week", 
+          "Beds": "1",
+          "Bath": "1",
+          "WiFi": "Yes",
+          "Gym": "No",
+          "Parking": "No",
+          "Game Room": "Yes",
+          "Study Space": "No",
+          "Communal spaces": "Yes",
+          "24/7 CCTV": "Yes",
+          "On-site laundry facilities": "Yes",
+          "City centre location": "No"
+        }
+      }
+    }
+  }
+}
